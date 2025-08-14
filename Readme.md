@@ -63,6 +63,6 @@ npm start
 Contributions are welcome! Feel free to **fork** this repository, create a **new branch**, and submit a **pull request**.  
 
 ## 📞 Contact
-👤 **Tushar Rai**  
-📧 [tusharraiku6020@gmail.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/tushar-rai-7801a4254/)  
+👤 **Ashutosh Maurya**  
+📧 [ashu0535144@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-maurya-840014266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
